@@ -1,5 +1,5 @@
 === Advance Custom Scripts ===
-Contributors: raihan143
+Contributors: mehedi-webninja, raihan143
 Tags: HTML, CSS, JS, javascript, php, custom HTML, custom CSS, custom JS, custom PHP, custom style, custom code, admin editor, add style, customize theme, internal css js external css js, styles, script, stylesheet, theme, editor, design, admin, codemirror, theme editor, dark
 Requires at least: 4.2
 Tested up to: 5.2.1
